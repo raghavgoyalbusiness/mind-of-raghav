@@ -1,0 +1,1580 @@
+{
+  "districts": [
+    {
+      "id": "founder-hq",
+      "name": "Founder HQ",
+      "emotion": "ambition",
+      "blurb": "A glowing tower with a rotating beacon. Where the companies live.",
+      "anchor": [
+        -12,
+        10,
+        -150
+      ]
+    },
+    {
+      "id": "workshop",
+      "name": "The Workshop",
+      "emotion": "craft",
+      "blurb": "A floating lab with conveyor belts carrying every shipped product.",
+      "anchor": [
+        -22,
+        13,
+        -90
+      ]
+    },
+    {
+      "id": "dream-factory",
+      "name": "The Dream Factory",
+      "emotion": "curiosity",
+      "blurb": "Chimneys puffing idea-bubbles. Ideas not yet built.",
+      "anchor": [
+        8,
+        15,
+        -110
+      ]
+    },
+    {
+      "id": "atelier",
+      "name": "The Atelier",
+      "emotion": "wonder",
+      "blurb": "A fashion-house floor floating in fog. Man God.",
+      "anchor": [
+        -26,
+        19,
+        -180
+      ]
+    },
+    {
+      "id": "roots",
+      "name": "Roots",
+      "emotion": "roots",
+      "blurb": "A warm courtyard with lanterns. Delhi, family, where it started.",
+      "anchor": [
+        8.5,
+        11,
+        -55
+      ]
+    },
+    {
+      "id": "atlas",
+      "name": "The Atlas",
+      "emotion": "wonder",
+      "blurb": "A slowly rotating glass globe with three lit cities.",
+      "anchor": [
+        -1,
+        26,
+        -205
+      ]
+    },
+    {
+      "id": "studio",
+      "name": "The Studio",
+      "emotion": "wonder",
+      "blurb": "A radio booth glowing at night.",
+      "anchor": [
+        4,
+        15,
+        -175
+      ]
+    },
+    {
+      "id": "track",
+      "name": "The Track",
+      "emotion": "grit",
+      "blurb": "A running track looping the whole hall.",
+      "anchor": [
+        -7.4,
+        -9,
+        -17.4
+      ]
+    },
+    {
+      "id": "long-game",
+      "name": "The Long Game",
+      "emotion": "curiosity",
+      "blurb": "A door at the far end of the hall that opens onto stars.",
+      "anchor": [
+        -7,
+        8,
+        -255
+      ]
+    }
+  ],
+  "memories": [
+    {
+      "id": "first-class",
+      "title": "First Class, University of Westminster",
+      "oneLiner": "BA Management (Marketing), graduated with First Class honours.",
+      "district": "atlas",
+      "emotion": "ambition",
+      "isCore": true,
+      "year": 2025,
+      "status": "shipped",
+      "tags": [
+        "education",
+        "london",
+        "marketing"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "viral-hub-marketing",
+      "title": "Viral Hub Marketing",
+      "oneLiner": "The first company: an influencer agency, before Anton.",
+      "district": "founder-hq",
+      "emotion": "grit",
+      "isCore": true,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "agency",
+        "influencers",
+        "first-company"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "anton-ai",
+      "title": "Founding Anton AI",
+      "oneLiner": "Influencer Connect: B2B SaaS for brand-influencer matching and campaign automation. Went through the AI Forge accelerator.",
+      "district": "founder-hq",
+      "emotion": "ambition",
+      "isCore": true,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "saas",
+        "b2b",
+        "influencers",
+        "ai"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "forty-apps",
+      "title": "40+ apps shipped",
+      "oneLiner": "Self-taught GitHub, deployment and AI-assisted development, from zero.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": true,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "shipping",
+        "self-taught",
+        "ai-dev"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "three-am-show",
+      "title": "The Three AM Show",
+      "oneLiner": "His podcast.",
+      "district": "studio",
+      "emotion": "wonder",
+      "isCore": true,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "podcast",
+        "content"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "london-marathon",
+      "title": "London Marathon 2027",
+      "oneLiner": "Running for Make-A-Wish UK, funded by selling ad blocks on his race vest.",
+      "district": "track",
+      "emotion": "grit",
+      "isCore": true,
+      "year": 2027,
+      "status": "building",
+      "tags": [
+        "running",
+        "charity",
+        "make-a-wish"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "creator-analytics-module",
+      "title": "Creator analytics module",
+      "oneLiner": "Anton AI module that turns creator data into campaign-ready insight.",
+      "district": "founder-hq",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "anton",
+        "analytics"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "whatsapp-micro-influencer-community",
+      "title": "WhatsApp micro-influencer community",
+      "oneLiner": "A community of micro-influencers with screenshot-based metric extraction.",
+      "district": "founder-hq",
+      "emotion": "ambition",
+      "isCore": false,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "anton",
+        "whatsapp",
+        "community"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "campaign-proposal-system",
+      "title": "Campaign proposal system",
+      "oneLiner": "Brand campaign proposals with tiered pricing, generated in minutes.",
+      "district": "founder-hq",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "anton",
+        "pricing",
+        "sales"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "campus-brand-activation-marketplace",
+      "title": "Campus brand activation marketplace",
+      "oneLiner": "Concept: brands meet campus ambassadors for activations.",
+      "district": "founder-hq",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "anton",
+        "marketplace",
+        "campus"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "anton-group",
+      "title": "Anton Group",
+      "oneLiner": "The umbrella for ~49 software ventures.",
+      "district": "founder-hq",
+      "emotion": "ambition",
+      "isCore": false,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "holding",
+        "ventures"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "ai-forge-accelerator",
+      "title": "AI Forge accelerator",
+      "oneLiner": "The accelerator Anton AI went through.",
+      "district": "founder-hq",
+      "emotion": "ambition",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "accelerator",
+        "anton"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "jarvis",
+      "title": "Jarvis",
+      "oneLiner": "Personal AI assistant on Telegram with voice, memory and sub-agents.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "ai",
+        "telegram",
+        "assistant"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "graveyard",
+      "title": "Graveyard",
+      "oneLiner": "Competitor and failure research: learn from the startups that died.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "research",
+        "startups"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "deslop",
+      "title": "Deslop",
+      "oneLiner": "Redesigns vibe-coded apps into something people want to use.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "design",
+        "ai"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "digital-mentors",
+      "title": "Digital Mentors",
+      "oneLiner": "AI mentors modelled on the people you wish you could ask.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "ai",
+        "mentorship"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "consultant-ai",
+      "title": "consultant.ai",
+      "oneLiner": "An AI consultant for founders and small businesses.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "ai",
+        "consulting"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "co-founder-fit-scorer",
+      "title": "Co-founder Fit Scorer",
+      "oneLiner": "Scores how well two co-founders actually fit.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "founders",
+        "matching"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "watchtower",
+      "title": "Watchtower",
+      "oneLiner": "Stock alerts delivered on Telegram.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "finance",
+        "telegram",
+        "alerts"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "ledgerline",
+      "title": "Ledgerline",
+      "oneLiner": "Invoice-to-PO matching.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "finance",
+        "automation"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "linkedout",
+      "title": "LinkedOut",
+      "oneLiner": "Anonymous exit reasons: why people really leave.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "hr",
+        "anonymous"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "localfluence",
+      "title": "Localfluence",
+      "oneLiner": "London businesses × local creators.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "influencers",
+        "local",
+        "london"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "foldboard",
+      "title": "Foldboard",
+      "oneLiner": "A pay-to-rank ad board.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "ads",
+        "marketplace"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "owed",
+      "title": "Owed",
+      "oneLiner": "Refund tracker: get back what you are owed.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "consumer",
+        "finance"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "stake",
+      "title": "Stake",
+      "oneLiner": "Habit fines that go to charity.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "habits",
+        "charity"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "circadian",
+      "title": "Circadian",
+      "oneLiner": "Personal jet lag plans.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "travel",
+        "health"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "local-stack",
+      "title": "Local Stack",
+      "oneLiner": "A local-first toolkit.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "tools"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "reflection-journal",
+      "title": "Reflection Journal",
+      "oneLiner": "A journal that asks better questions back.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "journal",
+        "ai"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "product-recommender",
+      "title": "Product Recommender",
+      "oneLiner": "Recommends the right product, not the most advertised one.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "ecommerce",
+        "ai"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "decode",
+      "title": "Decode",
+      "oneLiner": "Decodes what is really being said.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "ai",
+        "language"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "ship-school",
+      "title": "Ship School",
+      "oneLiner": "Teaching people to ship real apps with AI.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "education",
+        "shipping"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "cube-lab",
+      "title": "Cube Lab",
+      "oneLiner": "A playground of cubes.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "3d",
+        "experiment"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "dream-machine",
+      "title": "Dream Machine",
+      "oneLiner": "Turns dreams into something you can see.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "ai",
+        "creative"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "parody",
+      "title": "Parody",
+      "oneLiner": "Parody generator.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "humour",
+        "ai"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "personal-founder-site",
+      "title": "Personal founder site",
+      "oneLiner": "The founder homepage.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "web",
+        "personal"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "skydance-accelerator-site",
+      "title": "Skydance accelerator site",
+      "oneLiner": "Website for the Skydance accelerator.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "web",
+        "client"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "hyrox-sponsorship-site",
+      "title": "Hyrox sponsorship site",
+      "oneLiner": "Sponsorship site for a Hyrox race.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "web",
+        "fitness"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "marathon-vest-ad-site",
+      "title": "Marathon vest ad site",
+      "oneLiner": "Sells ad blocks on the London Marathon race vest.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "web",
+        "marathon",
+        "charity"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-claude-anthropic-api",
+      "title": "Claude / Anthropic API",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-claude-code",
+      "title": "Claude Code",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-react",
+      "title": "React",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-typescript",
+      "title": "TypeScript",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-vite",
+      "title": "Vite",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-tailwind",
+      "title": "Tailwind",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-mongodb",
+      "title": "MongoDB",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-supabase",
+      "title": "Supabase",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-aws",
+      "title": "AWS",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-lovable",
+      "title": "Lovable",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-replit",
+      "title": "Replit",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-emergent",
+      "title": "Emergent",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-gamma",
+      "title": "Gamma",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "tool-make-n8n",
+      "title": "Make / n8n",
+      "oneLiner": "On the toolbelt.",
+      "district": "workshop",
+      "emotion": "craft",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "toolbelt"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "ai-music-mashup",
+      "title": "AI Music Mashup",
+      "oneLiner": "Mashups from your Spotify / YouTube Music library.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "marginalia",
+      "title": "Marginalia",
+      "oneLiner": "Blocks addictive apps with quotes from great books.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "chat-decoder",
+      "title": "Chat Decoder",
+      "oneLiner": "Reads chat history, suggests witty replies.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "launchpad",
+      "title": "Launchpad",
+      "oneLiner": "Auto-posts a launch to 107 directories.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "hive-mind",
+      "title": "Hive Mind",
+      "oneLiner": "Aligns a whole company to one mission.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "jatayu-h2",
+      "title": "Jatayu H2",
+      "oneLiner": "AI for hydrogen-propulsion rockets.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "ink",
+      "title": "Ink",
+      "oneLiner": "A magic diary: your question sinks into the page and an answer appears.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "jobmax-ai",
+      "title": "Jobmax.ai",
+      "oneLiner": "Your resume against your target role.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "leveltheplayingfield-ai",
+      "title": "Leveltheplayingfield.ai",
+      "oneLiner": "Maps the city, people and places you need to win your field.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "lof-lend-your-office",
+      "title": "LOF / Lend Your Office",
+      "oneLiner": "Lend your empty office to people who need one.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "guardian",
+      "title": "Guardian",
+      "oneLiner": "AI emergency safety device.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "menu-studio",
+      "title": "Menu Studio",
+      "oneLiner": "AI menu designer.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "morse-eyes",
+      "title": "Morse Eyes",
+      "oneLiner": "3D eyes that blink Morse code as you type.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "phone-life-extension",
+      "title": "Phone Life Extension",
+      "oneLiner": "Old iPhone parts into new Android phones.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "rolodecks-ai",
+      "title": "Rolodecks AI",
+      "oneLiner": "AI search across your network.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "photo-spots",
+      "title": "Photo Spots",
+      "oneLiner": "Travel photo ideas plugin.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "runway",
+      "title": "Runway",
+      "oneLiner": "SAFE and exit valuation calculator.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "stills",
+      "title": "Stills",
+      "oneLiner": "Perfect stills from video.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "youtube-animations",
+      "title": "YouTube Animations",
+      "oneLiner": "AI motion graphics for talking-head videos.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "aow-advertising-on-wheels",
+      "title": "AOW / Advertising on Wheels",
+      "oneLiner": "Screens on delivery fleets.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "colour-enhancing-glasses",
+      "title": "Colour-enhancing glasses",
+      "oneLiner": "Glasses that make the world more vivid.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "corner-series",
+      "title": "Corner Series",
+      "oneLiner": "Six magnetic corner speakers for surround sound.",
+      "district": "dream-factory",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "idea"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "man-god",
+      "title": "Man God",
+      "oneLiner": "Limited edition clothing brand, coming 2027. We On Go.",
+      "district": "atelier",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": 2027,
+      "status": "building",
+      "tags": [
+        "fashion",
+        "brand"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "man-god-tees",
+      "title": "Man God tees",
+      "oneLiner": "Limited edition tees.",
+      "district": "atelier",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "fashion",
+        "man-god"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "printed-hoodies",
+      "title": "Printed hoodies",
+      "oneLiner": "Printed hoodies for the first Man God drop.",
+      "district": "atelier",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "fashion",
+        "man-god"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "firesoles",
+      "title": "Firesoles",
+      "oneLiner": "Sustainable modular all-in-one shoe: swap modules for smart, casual, running.",
+      "district": "atelier",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "shoes",
+        "sustainable",
+        "man-god"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "delhi",
+      "title": "Delhi",
+      "oneLiner": "Where it started.",
+      "district": "roots",
+      "emotion": "roots",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "home",
+        "india"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "goc",
+      "title": "GOC",
+      "oneLiner": "Goyal Group of Companies.",
+      "district": "roots",
+      "emotion": "roots",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "family",
+        "business"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "nk-sales-centre",
+      "title": "NK Sales Centre",
+      "oneLiner": "The family packaging business.",
+      "district": "roots",
+      "emotion": "roots",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "family",
+        "packaging"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "three-cities",
+      "title": "Delhi ⇄ London ⇄ Bangalore",
+      "oneLiner": "Digital nomad life across three cities.",
+      "district": "atlas",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "travel",
+        "nomad"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "young-founders-london",
+      "title": "Young Founders London",
+      "oneLiner": "One of the founder communities orbiting the globe.",
+      "district": "atlas",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "community"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "bombay-founders-club",
+      "title": "Bombay Founders Club",
+      "oneLiner": "One of the founder communities orbiting the globe.",
+      "district": "atlas",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "community"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "genz-vc",
+      "title": "GenZ VC",
+      "oneLiner": "One of the founder communities orbiting the globe.",
+      "district": "atlas",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "community"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "founder-communities",
+      "title": "20+ founder communities",
+      "oneLiner": "A constellation of founder communities.",
+      "district": "atlas",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "community"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "hackathons-and-startup-events",
+      "title": "Hackathons and startup events",
+      "oneLiner": "Rooms full of people building things.",
+      "district": "atlas",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "events",
+        "hackathons"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "applications-sprint",
+      "title": "Applications sprint",
+      "oneLiner": "Dozens of accelerators and fellowships applied to, as a deliberate optionality strategy.",
+      "district": "atlas",
+      "emotion": "ambition",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "accelerators",
+        "strategy"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "content-creation-and-youtube",
+      "title": "Content creation and YouTube",
+      "oneLiner": "Treated as permanent distribution assets.",
+      "district": "studio",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "content",
+        "youtube",
+        "distribution"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "make-a-wish-uk",
+      "title": "Make-A-Wish UK",
+      "oneLiner": "The charity the marathon runs for.",
+      "district": "track",
+      "emotion": "grit",
+      "isCore": false,
+      "year": null,
+      "status": "shipped",
+      "tags": [
+        "charity"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "the-race-vest",
+      "title": "The race vest",
+      "oneLiner": "Divided into ad blocks; sponsor blocks glow.",
+      "district": "track",
+      "emotion": "grit",
+      "isCore": false,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "marathon",
+        "sponsors"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "decade-anton",
+      "title": "Now → 25: build Anton",
+      "oneLiner": "The decade plan, chapter one.",
+      "district": "long-game",
+      "emotion": "ambition",
+      "isCore": false,
+      "year": null,
+      "status": "building",
+      "tags": [
+        "plan"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "decade-capital",
+      "title": "After 25: capital-intensive ventures",
+      "oneLiner": "The decade plan, chapter two.",
+      "district": "long-game",
+      "emotion": "curiosity",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "plan"
+      ],
+      "links": [],
+      "image": null
+    },
+    {
+      "id": "decade-book",
+      "title": "After 28: write the book",
+      "oneLiner": "The decade plan, chapter three.",
+      "district": "long-game",
+      "emotion": "wonder",
+      "isCore": false,
+      "year": null,
+      "status": "idea",
+      "tags": [
+        "plan",
+        "writing"
+      ],
+      "links": [],
+      "image": null
+    }
+  ]
+}
