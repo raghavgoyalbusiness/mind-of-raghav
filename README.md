@@ -13,6 +13,8 @@ npm run dev      # http://localhost:5173
 npm run build    # production build in dist/
 ```
 
+Live at https://mind-of-raghav.netlify.app. Every push to `main` rebuilds and redeploys it on Netlify.
+
 ## Adding a memory
 
 Everything lives in [`src/data/mind.json`](src/data/mind.json). Add an entry to `memories`:
